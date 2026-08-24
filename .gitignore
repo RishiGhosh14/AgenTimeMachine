@@ -1,0 +1,8 @@
+.deps/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.db
+node_modules/
+.next/
+.env
